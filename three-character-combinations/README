@@ -1,0 +1,10 @@
+Colletcion of three-character combinations
+
+Alpha-numeric, uppercase, lowercase; all with and without caps.
+
+three_char_alpha_numeric_capital_combinations.wordlist
+three_char_alpha_numeric_combinations.wordlist
+three_char_capital_lower_number_combinations.wordlist
+three_char_capital_two_lower_combinations.wordlist
+three_char_letter_capital_combinations.wordlist
+three_char_letter_combinations.wordlist
