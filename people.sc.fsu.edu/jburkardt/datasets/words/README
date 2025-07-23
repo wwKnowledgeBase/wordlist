@@ -1,0 +1,76 @@
+Source: https://people.sc.fsu.edu/~jburkardt/datasets/words/words.html
+
+anagram_dictionary.txt  | a list of 89,059 words used by James Cherry's
+                        | anagram program;
+                        |
+basic_english_850.txt   | a list of 850 words used by Charles Ogden as part
+                        | of his definition of Basic English, in Basic
+                        | English: A General Introduction with Rules and
+                        | Grammar;
+                        |
+basic_english_2000.txt  | a list of 2,007 words, including the 850 from the
+                        | lowest level of Basic English, extended by some
+                        | more general words;
+bigram.html             | a list of two-letter words with meanings or
+                        | definitions.
+                        |
+doublet_words.txt       | 5,551 words from the glossary to Lewis Carrol's
+                        | book on "Doublets", also known as "word ladders" or
+                        | "word golf".
+                        |
+gettysburg.txt          | Lincoln's Gettysburg Address, stored as three long
+                        | lines of text, separated by two blank lines;
+                        |
+globish.txt             | 1501 words that form the core of Globish, a "Global
+                        | English" vocabulary for international business,
+                        | popularized by Jean-Paul Nerriere in "Don't Speak
+                        | English, Parlez Globish!".
+                        |
+knuth_words.txt         | a list of 5,678 five-letter words used by Donald
+                        | Knuth for demonstrations of the Stanford Graph Base
+                        | (SGB); This file includes a great deal of
+                        | annotation.
+                        |
+knuth_5.txt             | a list of 5,678 five-letter words used by Donald
+                        | Knuth for demonstrations of the Stanford Graph Base
+                        | (SGB); This is a copy of "knuth_words.txt" which
+                        | has removed all the extraneous annotation.
+                        |
+lorem_ipsum.txt         | the "Lorem Ipsum" block of text used as printer's
+                        | dummy text for hundreds of years. The text was
+                        | extracted from a work by Cicero, but chopped up
+                        | somewhat. In particular, the opening phrase "Lorem
+                        | ipsum" is actually pulled from Cicero's phrase
+                        | "Neque porro quisquam est, qui dolorem ipsum quia
+                        | dolor sit amet,...";
+pentagram.html          | a list of about 32,500 five-letter English words
+                        | and names, with definitions, in alphabetical
+                        | order, one per line, along with some explanatory
+                        | text and slight HTML coding;
+                        |
+sgb_words.txt           | a list of 5,757 five-letter words used by Donald
+                        | Knuth for demonstrations of the Stanford Graph Base
+                        | (SGB);
+                        |
+simplified_english.txt  | a list of 815 words used in a version of
+                        | Simplified English, a form of English with a
+                        | restricted basic vocabulary, used aerospace
+                        | engineering;
+                        |
+sowpods.txt             | the Collins Scrabble Words list of 267,751 words
+                        | acceptable for use in Scrabble.
+                        |
+special_english.txt     | a list of 1477 words used in Special English, a
+                        | form of English with a restricted basic
+                        | vocabulary, used in broadcasts by the Voice of
+                        | America;
+                        |
+unique_grams.txt        | a list of 47 long English words with no repeated
+                        | letters, in alphabetical order, one per line;
+                        |
+wordlist.txt            | a list of 300,260 English words, in alphabetical
+                        | order, one per line;
+                        |
+wordlist_fives.txt      | the 16,153 five-letter words from wordlist.txt.
+                        |
+wordlist_threes.txt     | 1005 three letter words.
